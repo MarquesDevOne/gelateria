@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dfee7890.css",
+    "main.js": "/static/js/main.d29c358c.js",
+    "static/media/banner-sobre.png": "/static/media/banner-sobre.e958a86cc903592d30f0.png",
+    "static/media/banner-sabores.jpg": "/static/media/banner-sabores.0e325a982b455ed9676c.jpg",
+    "static/media/banner-home.png": "/static/media/banner-home.140734a24901a2ad58d6.png",
+    "static/media/sun.png": "/static/media/sun.4df795b5b2b57f2a16a7.png",
+    "static/media/moon.png": "/static/media/moon.257e150b049ec21b7b2e.png",
+    "index.html": "/index.html",
+    "main.dfee7890.css.map": "/static/css/main.dfee7890.css.map",
+    "main.d29c358c.js.map": "/static/js/main.d29c358c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfee7890.css",
+    "static/js/main.d29c358c.js"
+  ]
+}
